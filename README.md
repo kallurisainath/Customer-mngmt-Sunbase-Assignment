@@ -41,7 +41,9 @@ How it works:
 8.EditCustomer.jsp is used to get particular details of customer and provides us to edit
 </pre>
 
+Screenshot
+![WhatsApp Image 2024-07-25 at 09 11 53_d24817a7](https://github.com/user-attachments/assets/f8a7e40b-4902-4a17-af05-de6ca9cc0fa5)
 
 
-
-
+Screenshot
+![WhatsApp Image 2024-07-25 at 09 11 53_4e1faa2b](https://github.com/user-attachments/assets/97cbee3a-b8a4-462d-bb6b-c6e2063d00be)
